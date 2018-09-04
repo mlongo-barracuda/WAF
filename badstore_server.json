@@ -1,0 +1,10 @@
+{  
+    "identifier": "IP Address",  
+    "address-version": "IPv4",  
+    "status": "In Service",  
+    "name": "badstore_ws",  
+    "ip-address": "172.30.1.200",  
+    "hostname": "",  
+    "port": 80,  
+    "comments": ""
+}
