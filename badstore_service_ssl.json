@@ -1,0 +1,15 @@
+{
+  "address-version": "IPv4",
+  "app-id": "ecommerce",
+  "certificate": "badstorecertificate",
+  "comments": "",
+  "group": "default",
+  "ip-address": "172.30.1.100",
+  "mask": "255.255.255.255",
+  "name": "badstore_ssl",
+  "port": 443,
+  "secure-site-domain": [],
+  "status": "On",
+  "type": "HTTPS",
+  "vsite": "default"
+}

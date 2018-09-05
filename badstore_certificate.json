@@ -1,0 +1,12 @@
+{
+  "allow_private_key_export": "Yes",
+  "city": "IBK",
+  "common_name": "badstore.bighfishinc.org",
+  "country_code": "AT",
+  "key_size": "4096",
+  "key_type": "rsa",
+  "name": "badstorecertificate",
+  "organization_name": "Barracuda Networks",
+  "organization_unit": "Campus",
+  "state": "Tirol"
+}
